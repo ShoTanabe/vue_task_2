@@ -5,6 +5,7 @@
 </template>
 
 <script>
+
 </script>
 
 <style lang="scss">
@@ -19,7 +20,6 @@
     clear: both;
   }
 }
-
 
 #header div.header_left{
   height: 80px;
@@ -51,7 +51,6 @@
     margin-right: 20px;
   }
 }
-
 
 #main_container{
   width: 700px;
@@ -95,7 +94,6 @@
     margin-bottom: 0;
   }
 
-
   #main_container .question_title{
     margin-left: 15px;
     margin-bottom: 20px;
@@ -136,6 +134,4 @@
     opacity: 0.8;
   }
 }
-
-
 </style>
